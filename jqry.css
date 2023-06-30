@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+   
+}
+.col h1{
+    display: inline-block;
+    line-height: 100px;
+}
+ul{
+    list-style: none;
+ float: right;
+ 
+}
+
+
+ul li {
+   padding: 10px;
+   float: right;
+   line-height: 100px;
+   
+}
+ul li a{ text-decoration: none;
+color: black;
+font-weight: 800;
+   
+}
